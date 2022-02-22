@@ -28,3 +28,34 @@ h1, p{
 .img-avatar{
     width: 10rem;
 }
+
+.portfolio-img-1{
+    background-image: url(../img/cabin.png);
+    background-size: cover;
+    background-position: center;
+}
+.portfolio-img-2{
+    background-image: url(../img/cake.png);
+    background-size: cover;
+    background-position: center;
+}
+.portfolio-img-3{
+    background-image: url(../img/circus.png);
+    background-size: cover;
+    background-position: center;
+}
+.portfolio-img-4{
+    background-image: url(../img/game.png);
+    background-size: cover;
+    background-position: center;
+}
+.portfolio-img-5{
+    background-image: url(../img/safe.png);
+    background-size: cover;
+    background-position: center;
+}
+.portfolio-img-6{
+    background-image: url(../img/submarine.png);
+    background-size: cover;
+    background-position: center;
+}
